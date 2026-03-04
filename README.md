@@ -9,10 +9,7 @@ It provides step-by-step visualization, hit/miss ratio analysis, and algorithm c
 - **Course Name:** Operating Systems  
 - **Course Code:** BCSE303L  
 - **Team Members:**
-  - 23BKT0001 – *Yash Dharad*  (Team Lead)
-  - 23BCT0223 – *Harish Kumar V.S*  
-  - 23BDS0019 – *Nagi Reddy SaiBaba*
-
+  - 23BKT0001 – *Yash Dharad* 
 ---
 
 ## 🚀 **Features**
